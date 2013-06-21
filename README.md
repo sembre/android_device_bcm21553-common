@@ -1,4 +1,3 @@
-android_device_bcm21553-common
-==============================
+Samsung bcm21553-common device source
+=====================================
 
-Device tree for CM10
